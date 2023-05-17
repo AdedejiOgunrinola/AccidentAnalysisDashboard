@@ -1,0 +1,7 @@
+# AccidentAnalysisDashboard
+This is a dashboard created by Adedeji Ogunrinola displaying analysis and visualizations of traffic accident data for the city of Tempe, Arizona. The data is obtained from Tempe Open Data Portal and can be found here. 
+The dashboard employs several R packages, reads the dataset of traffic accident data, and preprocesses the data to create new variables for analysis. The dashboard allows users to interact with the data, selecting variables of interest to view in various visualizations such as maps, tables, and graphs. 
+The author created extra tabs including Traffic Accidents ‘By Impairment’, Traffic Accidents ‘By Terrain’ and Extra Viz. By Impairment tab shows annual totals for crashes, injuries, and fatalities broken down by drug and alcohol usage. By terrain shows totals for crashes, injuries, and fatalities by age category, surface, and weather condition. 
+Extra viz contains a bar chart/ histogram showing total injuries by year and a pie chart showing total fatalities by age category. Here, the author observed that the Adult category account for the most fatalities caused by traffic accidents. Year selector was also added. The ‘Comparisons’ tab plays an efficient role in navigating the dashboard.
+
+The dashboard can be accessed here - https://adedejiogunrinola.shinyapps.io/Final-Project-Ogunrinola/?_ga=2.230383324.1315400555.1681862102-1236603150.1681862102
